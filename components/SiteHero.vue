@@ -64,6 +64,7 @@ export default {
 
 .title {
   font-weight: 300;
+  font-family: 'Trade Winds', cursive;
   @media (min-width: 768px) {
     font-size: 3.2rem;
   }
@@ -75,6 +76,7 @@ export default {
 }
 .subtitle {
   font-size: 1rem;
+  font-family: 'Trade Winds', cursive;
   margin-bottom: 0 !important;
 }
 .under-subtitle {

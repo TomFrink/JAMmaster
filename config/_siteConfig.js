@@ -10,7 +10,7 @@ import theCMS from '../cms/netlify/cms'
  */
 export default {
   siteName: 'JAMmaster',
-  tagline: 'A JAMstack Blog',
+  tagline: 'a JAMstack Blog',
   featureImage: '/JamStackAmp.jpg',
   logo: '', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
