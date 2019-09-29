@@ -5,7 +5,7 @@ category:
   - About Awake
 author: Tom Frink
 date: 2019-08-23T14:05:38.336Z
-featureImage: /uploads/getting-started-hero.jpg
+featureImage: /uploads/earth.jpg
 ---
 This is the very first post for this blog. \
 It's more of a test than anything else. 
