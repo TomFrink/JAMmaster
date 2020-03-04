@@ -5,7 +5,7 @@ category:
   - Articles
 author: Tom Frink
 date: 2020-02-09T15:54:16.009Z
-featureImage: uploads/smashing-mag-tall.png
+featureImage: uploads/makeswitch.png
 ---
 Summary from Smashing:\
 "WordPress adoption is massive. So why would a WordPress site consider moving to JAMstack? In this technical case study, we’ll cover what an actual WordPress migration looks like, using Smashing Magazine itself! We’ll talk through the gains and losses, the things we wish we knew earlier, and what we were surprised by."
